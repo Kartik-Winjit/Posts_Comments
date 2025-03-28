@@ -26,10 +26,3 @@ This repository provides a basic structure for a posts and comments system. The 
 - **posts**: Service for managing posts.
 - **query**: Query handling logic for fetching posts and comments.
 
-## Getting Started
-
-To get started with this project, clone the repository and set up the services locally:
-
-```bash
-git clone https://github.com/Kartik-Winjit/Posts_Comments.git
-cd Posts_Comments
